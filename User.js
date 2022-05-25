@@ -1,3 +1,3 @@
 function nuevo_usuario(){
-    console.log('nuevo usuario');
+    console.log('new user');
 }
